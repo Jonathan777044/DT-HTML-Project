@@ -1,6 +1,6 @@
 body {
-	/*background-color: #202020;*/
-	/*Background-image: url("http://pkportuga.pt/blog/wp-content/uploads/2016/06/Alola-Region-Map.jpg");*/
+	background-color: #202020;
+	Background-image: url("http://pkportuga.pt/blog/wp-content/uploads/2016/06/Alola-Region-Map.jpg");
 	color: #ffffff;
 	text-align: center;
 	
@@ -13,7 +13,7 @@ p {
 	margin: auto 500px;
 	margin-top: 10px;
 }
-grad{
+#grad{
 	background: linear-gradient(#202020,#909090)
 }
 h1{
