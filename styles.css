@@ -1,8 +1,6 @@
-<style>
-@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
-</style>
 body {
 	background-color: #481036;
+	@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
 	/*Background-image: url("http://pkportuga.pt/blog/wp-content/uploads/2016/06/Alola-Region-Map.jpg");*/
 	color: #ffffff;
 	text-align: left;
@@ -16,9 +14,6 @@ p {
 	border-color: #f9f9f9;
 	margin: auto 500px;
 	margin-top: 10px;
-}
-#grad{
-	background: linear-gradient(#202020,#909090)
 }
 h1{
 	border-style: solid;
