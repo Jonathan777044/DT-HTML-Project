@@ -1,3 +1,26 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
 body {
 	background-color: rgb(48, 10, 36);
 	@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
@@ -7,7 +30,7 @@ body {
 	
 }
 p {
-	text-indent: 50px;
+	text-indent: 1%;
 	border-style: double;
 	border-width: 2px;
 	border-color: #f9f9f9;
