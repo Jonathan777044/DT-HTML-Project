@@ -46,7 +46,9 @@ h1{
 	margin: auto 2%;
 	margin-top: 10px;
 }
-
+title{
+	Margin-top: 10%;
+}
 #monospace {
 	font-family: Ubuntu Mono, Consolas;
 }
