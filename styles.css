@@ -32,7 +32,6 @@ body {
 	@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
 	color: #ffffff;
 	margin: 0;
-	text-align: Center;
 	font-family: 'Ubuntu Mono', monospace;
 	
 }
@@ -40,11 +39,10 @@ p {
 	
 }
 h1{
-	border-style: solid;
-	border-width: 5px;
-	border-color: #ffffff;
-	margin: auto 2%;
+	@import url('https://fonts.googleapis.com/css?family=Pacifico');
 	margin-top: 10px;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
 }
 title{
 	Margin-top: 40px;
