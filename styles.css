@@ -36,8 +36,14 @@ body {
 	font-family: 'Ubuntu Mono', monospace;
 	
 }
+h3 {
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top: 2%;
+	margin-bottom: 1%;
+}
 p {
-	margin: 5%;
+	margin: 2%;
 }
 h1{
 	@import url('https://fonts.googleapis.com/css?family=Pacifico');
